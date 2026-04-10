@@ -1,4 +1,4 @@
-package com.vinicius.estoque;
+package Modelos;
 
 public class Carro {
     private String modelo;
